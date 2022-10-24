@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.hot-container.data-v-41251cbc {
+  background-color: white;
+}
+.hot-container .logo.data-v-41251cbc {
+  width: 100%;
+  height: 55px;
+}
+.hot-container .searchbox.data-v-41251cbc {
+  padding: 10px 16px;
+}
+
